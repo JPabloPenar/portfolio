@@ -1,5 +1,5 @@
 # Portfolio
-#Proyectos: 
+Proyectos: 
 Movimiento carro (2023):
 Proyecto desarrollado durante pasantías del colegio Tomás Alva Edison en el taller de mecatrónica de la UNCUYO,
 es una interfaz que permite controlar cámaras y un motor paso a paso para mover un carrito.
